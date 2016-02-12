@@ -1,0 +1,33 @@
+# Nuetzliche Variablendefinitionen (ausser PATH!):
+
+# Manche Programme koennen zur Editierung einer Textdatei einen Editor
+# aufrufen. Der Standard ist hier oft 'vi'. Wenn die Umgebungsvariable
+# EDITOR gesetzt ist wird stattdessen meist der darin defineirte Editor
+# verwendet
+
+# Die Variable sollte den kompletten Pfad zu dem Editor enthalten
+# (Bitte auf Ihrem System nachprufen!)
+export EDITOR=/usr/bin/nano
+
+# Manche Programme benutzen statt EDITOR die Variable VISUAL;
+# einfach beide Variablen auf denselben Edit stellen:
+export VISUAL=/usr/bin/nano
+
+# Aehnlich zu einem Editor wird von einigen Programmen ein pager
+# aufgerufen (z.B. von man). Hier wollen wir immer 'less':
+export PAGER=/usr/bin/less
+
+# Shell Prompt:
+export PS1="\u@\h:\w\$ "
+
+# Nuetzliche ALias Definitionen:
+alias ll="ls -l"             # ll fuer lange Listings
+alias ls="ls --color=auto"   # Farbige Unterlegung verschiedener Dateitypen
+                             # bei ls (ACHTUNG: Testen Sie ob die ls-Option
+                             # '--color=auto' auf Ihrem System zur Verfuegung
+                             # steht!
+alias h="history"            # h fuer Shell-History
+alias e="nano"               # e fuer den Aufruf des Editors
+alias eb="nano ~/.bashrc; . ~/.bashrc" # eb um bashrc zu editieren und
+                                       # neue Definitionen gleich in der
+                                       # laufenden Shell aktivieren.
