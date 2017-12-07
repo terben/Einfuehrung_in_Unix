@@ -12,6 +12,6 @@ welches im Februar 2017 im Springer Verlag erschienen ist:
  alt="Einführung in Unix - Titelseite" height=256>
 </a>
 
-Für alle relevanten Bucthemen werden derzeit auch Begelitvideos erstellt, die
+Für alle Buchthemen werden derzeit auch Begelitvideos erstellt, die
 auf [YouTube](https://www.youtube.com/channel/UCgaFgieXi6HIryaFyhhzQtg) zur
 Verfügung gestellt werden.
