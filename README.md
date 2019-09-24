@@ -17,9 +17,9 @@ Auf dieser Seite finden Sie:
 Sie können die Dateien entweder mit dem git-Programm von dieser erhalten oder direkt als
 [ZIP-Archivdatei](https://github.com/terben/Einfuehrung_in_Unix/archive/master.zip).
 
-- Eine Liste von Errata, die mir seit dem Druck des Buches bekannt geworden sind. Die
-können diese [direkt hier](https://raw.githubusercontent.com/terben/Einfuehrung_in_Unix/master/Buch_errata.pdf)
-herunterladen.
+- Eine Liste von Errata, die mir seit dem Druck des Buches bekannt geworden sind. Sie
+können diese [direkt hier](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/terben/Einfuehrung_in_Unix/master/Buch_errata.pdf)
+ansehen.
 
 - Für alle Buchthemen werden derzeit auch Begelitvideos erstellt, die
 auf [YouTube](https://www.youtube.com/channel/UCgaFgieXi6HIryaFyhhzQtg) zur
