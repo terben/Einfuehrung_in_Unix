@@ -15,10 +15,11 @@ welches im Februar 2017 im Springer Verlag erschienen ist:
 Auf dieser Seite finden Sie:
 - Dateien, die im Buch erwähnt werden und die Sie bei der Bearbeitung des Materials unterstützen.
 Sie können die Dateien entweder mit dem git-Programm von dieser erhalten oder direkt als
-[ZIP-Archivdatei](https://github.com/terben/Einfuehrung_in_Unix/archive/master.zip).
+[ZIP-Archivdatei](https://github.com/terben/Einfuehrung_in_Unix/archive/master.zip) herunterladen.
 
-- Eine Liste von Errata, die mir seit dem Druck des Buches bekannt geworden sind. Sie
-können diese [direkt hier](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/terben/Einfuehrung_in_Unix/master/Buch_errata.pdf)
+- Eine Liste von Errata, die mir seit dem Druck des Buches bekannt geworden sind. Die Datei ist
+Sie erhalten sie zusammen mit den anderen Dateien zum Buch. Sie
+können sie auch [direkt hier](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/terben/Einfuehrung_in_Unix/master/Buch_errata.pdf)
 ansehen.
 
 - Für alle Buchthemen werden derzeit auch Begelitvideos erstellt, die
