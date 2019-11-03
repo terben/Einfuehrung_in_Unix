@@ -22,6 +22,6 @@ Sie zusammen mit den anderen Dateien zum Buch. Sie
 können sie aber auch [direkt hier](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/terben/Einfuehrung_in_Unix/master/Buch_errata.pdf)
 ansehen.
 
-- Für alle Buchthemen werden derzeit auch Begelitvideos erstellt, die
+- Für alle Buchthemen werden derzeit auch Begleitvideos erstellt, die
 auf [YouTube](https://www.youtube.com/channel/UCgaFgieXi6HIryaFyhhzQtg) zur
 Verfügung gestellt werden.
