@@ -22,6 +22,8 @@ Sie zusammen mit den anderen Dateien zum Buch. Sie
 können sie aber auch [direkt hier](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/terben/Einfuehrung_in_Unix/master/Buch_errata.pdf)
 ansehen.
 
+- Einen kompakten Online-Begeleitkurs zum Buch. Der Kurs behandelt wichtige Kernthemen des Buches, um mit `Linux` die allerersten Schritte im wissenschaftlichen Kontext zu gehen. Das Buch kann als Ergänzung und weiterführende Lektüre zu diesem Kurs genutzt werden. Der Kurs kann komplett ohne Installation und `Linux`-Vorkenntnisse in einem Webbrowser bearbeitet werden. Sie finden ihn [hier](https://github.com/terben/Linux_Tutorial_Deutsch/blob/master/README.md).
+
 - Für alle Buchthemen werden derzeit auch Begleitvideos erstellt, die
 auf [YouTube](https://www.youtube.com/channel/UCgaFgieXi6HIryaFyhhzQtg) zur
 Verfügung gestellt werden.
