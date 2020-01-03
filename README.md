@@ -14,7 +14,7 @@ welches im Februar 2017 im Springer Verlag erschienen ist:
 
 Auf dieser Seite finden Sie:
 - Dateien, die im Buch erwähnt werden und die Sie bei der Bearbeitung des Materials unterstützen.
-Sie können die Dateien entweder mit dem git-Programm von dieser erhalten oder direkt als
+Sie können die Dateien entweder mit dem git-Programm von dieser Seite erhalten oder direkt als
 [ZIP-Archivdatei](https://github.com/terben/Einfuehrung_in_Unix/archive/master.zip) herunterladen.
 
 - Eine Liste von Errata, die mir seit dem Druck des Buches bekannt geworden sind. Die Errata-Liste erhalten
